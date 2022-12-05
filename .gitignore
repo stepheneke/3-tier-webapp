@@ -1,0 +1,7 @@
+notes.txt
+installwebapp2.sh
+terraform.tfstate
+.terraform.*
+installwebapp2.sh
+main_copy.tf.txt
+.terraform/**
