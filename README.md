@@ -7,5 +7,7 @@ The main.tf files contains almost all the configuration needed to provision the 
 To kick if off, add or export your AWS CLI credentials and run the following commands from your terminal
 
 terraform init
+
 terraform plan --var-file=testing.tfvars
+
 terraform apply --var-file=testing.tfvars
